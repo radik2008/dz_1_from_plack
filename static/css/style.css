@@ -1,0 +1,20 @@
+/* Общие стили для страницы */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+
+
+/* Стили для заголовка h1 */
+h1 {
+    color: #f33213;
+    text-align: center;
+}
+
+h2 {
+    color: #99cc33;
+    text-align: center;
+}
+
